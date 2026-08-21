@@ -1,0 +1,7 @@
+interface:
+  display_name: "Select Journal"
+  short_description: "自动结算本地证据并用近3-6个月论文筛刊"
+  default_prompt: "Use $select-journal to resolve my available IF/JCR, warning-list, LetPub, official-page, and manuscript evidence before recommending SCI journals, then report recent 3-6 month benchmark papers, data-scale/workload comparison, volume, China-address estimate, self-citation/risk, operations, and only the genuinely unresolved verification items."
+
+policy:
+  allow_implicit_invocation: true
