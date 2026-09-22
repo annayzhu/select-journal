@@ -75,6 +75,8 @@ If the SCI inclusion list or warning list is missing, continue only with a bound
 
 Read `references/local_evidence_sources.md` and `references/journal_evidence.md` before asking the user for files or verification.
 
+The bundled `references/data/2026-09-22/` snapshot supplies the default SCIE eligibility list (2026-09-21), 2025 IF/JCR workbook, other citation-index lists, and CQI 2026. Read `references/journal_snapshot_2026-09-22.md` for field boundaries and precedence. Use these portable files before requesting them again; do not treat CQI as CAS partition or infer an overall self-citation rate from IF differences.
+
 1. Check whether registered local evidence files exist and whether the user supplied newer replacements.
 2. Parse each source and identify what it actually contains. Keep JCR quartile, Chinese Academy of Sciences partition, and third-party Chinese partition systems as separate fields.
 3. Build an evidence-resolution ledger with one status per requested field: `resolved`, `provisional`, `unresolved`, or `not applicable`.

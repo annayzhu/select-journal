@@ -4,6 +4,8 @@ Use these files as the user's default local evidence when they exist. A newer us
 
 ## Registered IF/JCR Workbook
 
+Superseded as the default metric source on 2026-09-22 by the bundled `data/2026-09-22/2025IF.xlsx` (paths here are relative to this references directory). See `journal_snapshot_2026-09-22.md` and `data/2026-09-22/manifest.json`. Keep the older registration below for provenance and fallback only; do not silently mix versions. The bundled SCIE list is the default eligibility source, while the institutional warning workbook below remains a separate hard-exclusion source.
+
 - Path: `/Users/annayzhu/Downloads/DOC-20260618-WA0000..xlsx`
 - Inspected: 2026-08-05
 - Sheet: `2026 JCR`

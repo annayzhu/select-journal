@@ -1,0 +1,161 @@
+{
+  "received_date": "2026-09-22",
+  "status": "user-file provided",
+  "files": [
+    {
+      "file": "2025IF.xlsx",
+      "bytes": 9785182,
+      "sha256": "a1283b9f4fceb8afc51d05b8001aee35322a45ba657dfd0ec9fdd69fa16cd3ec",
+      "sheets": [
+        {
+          "name": "Journals",
+          "columns": [
+            "Rank",
+            "Journal name",
+            "Abbreviated journal",
+            "Publisher",
+            "ISSN",
+            "eISSN",
+            "Categories",
+            "Editions",
+            "JCR year",
+            "2025 JIF",
+            "5-year JIF",
+            "JIF without self cites",
+            "JIF quartile",
+            "JIF percentile",
+            "JIF rank",
+            "JCI",
+            "JCI quartile",
+            "JCI percentile",
+            "JCI rank",
+            "Total citations",
+            "Total articles",
+            "Citable items",
+            "% articles in citable items",
+            "% OA gold",
+            "Immediacy index",
+            "Eigenfactor",
+            "Normalized eigenfactor",
+            "Article influence score",
+            "AIS quartile",
+            "AIS rank",
+            "Cited half-life",
+            "Citing half-life",
+            "Category quartiles JSON"
+          ],
+          "data_rows": 22643
+        },
+        {
+          "name": "Category_Quartiles",
+          "columns": [
+            "Rank",
+            "Journal name",
+            "ISSN",
+            "eISSN",
+            "Category",
+            "Edition",
+            "JIF quartile",
+            "JIF percentile",
+            "JIF rank",
+            "JCI quartile",
+            "JCI percentile",
+            "JCI rank",
+            "AIS quartile",
+            "AIS rank",
+            "5-year JIF quartile",
+            "2025 JIF",
+            "5-year JIF",
+            "JCI"
+          ],
+          "data_rows": 32215
+        },
+        {
+          "name": "Category_Summary",
+          "columns": [
+            "Category",
+            "Journal-category records"
+          ],
+          "data_rows": 254
+        }
+      ]
+    },
+    {
+      "file": "AHCI目录 20260921.csv",
+      "bytes": 306655,
+      "sha256": "be755b21215cfa776c45b00e508ac851eb263b107d79af27dbba6367958a8115",
+      "columns": [
+        "Journal title",
+        "ISSN",
+        "eISSN",
+        "Publisher name",
+        "Publisher address",
+        "Languages",
+        "Web of Science Categories"
+      ],
+      "data_rows": 1799
+    },
+    {
+      "file": "CQI全球高质量期刊目录-2026版.xlsx",
+      "bytes": 836176,
+      "sha256": "446c5be9f96e0011e3e16914eea3d11553dd57016ca1fa3bd70a4bb9fabef9d4",
+      "sheets": [
+        {
+          "name": "CQI-2026",
+          "columns": [
+            "期刊名",
+            "CQI",
+            "CQI分类",
+            "收录数据库"
+          ],
+          "data_rows": 22936
+        }
+      ]
+    },
+    {
+      "file": "ESCI目录 20260921.csv",
+      "bytes": 1757676,
+      "sha256": "4cf6a6e8121ffd663e4c4f2c33055e4d508cdd72ef29d90cf1b5ab4ef81c9d5a",
+      "columns": [
+        "Journal title",
+        "ISSN",
+        "eISSN",
+        "Publisher name",
+        "Publisher address",
+        "Languages",
+        "Web of Science Categories"
+      ],
+      "data_rows": 9387
+    },
+    {
+      "file": "SCIE目录 20260921.csv",
+      "bytes": 1760081,
+      "sha256": "2bd26f593b42ec495dc2882b13afdbd5ce7a624479f6c9dd9528fe0a4704b3a6",
+      "columns": [
+        "Journal title",
+        "ISSN",
+        "eISSN",
+        "Publisher name",
+        "Publisher address",
+        "Languages",
+        "Web of Science Categories"
+      ],
+      "data_rows": 9425
+    },
+    {
+      "file": "SSCI目录 20260921.csv",
+      "bytes": 636005,
+      "sha256": "277e9182a188ccae546691797686d2aed8e0ad445c5b1cd5eb07902f9b0d87f7",
+      "columns": [
+        "Journal title",
+        "ISSN",
+        "eISSN",
+        "Publisher name",
+        "Publisher address",
+        "Languages",
+        "Web of Science Categories"
+      ],
+      "data_rows": 3537
+    }
+  ]
+}
